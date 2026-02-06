@@ -1,17 +1,17 @@
-"BookingID","RoomNumber","BookingDate","TimeSlot","StudentID","DurationHours","Purpose"
-"5001","R101","2024-03-15","Morning","STU-2024-001","2.00","Study"
-"5002","R-101","15-Mar-2024","8AM-10AM",NULL,"3.50","Group Project"
-"5003","Room101","2024-03-16","AM","STU-2024-002","1.00","Meeting"
-"5004","R102","16-Mar-2024","Afternoon","STU-2024-003","2.50","Study"
-"5005","R-102","2024-03-17","2PM-4PM",NULL,"2.00","Group Project"
-"5006","Room102","17-Mar-2024","PM","STU-2024-004","3.00","Study"
-"5007","R103","2024-03-18","Morning","STU-2024-005","1.50","Meeting"
-"5008","R-103","18-Mar-2024","10AM-12PM","STU-2024-001","2.00","Study"
-"5009","Room103","2024-03-19","Evening",NULL,"4.00","Group Project"
-"5010","R101","19-Mar-2024","6PM-9PM","STU-2024-006","3.00","Study"
-"5011","R-101","2024-03-20","Morning","STU-2024-007","2.00","Meeting"
-"5012","Room101","20-Mar-2024","AM",NULL,"1.50","Study"
-"5013","R102","2024-03-20","Morning","STU-2024-008","2.00","Study"
-"5014","R102","2024-03-20","Morning","STU-2024-008","2.00","Study"
-"5015","R-102","21-Mar-2024","Afternoon","STU-2024-009","3.50","Group Project"
-"5016","Room102","2024-03-22","3PM-5PM",NULL,"2.00","Meeting"
+BookingID,RoomNumber,BookingDate,TimeSlot,StudentID,DurationHours,Purpose
+5001,R101,3/15/2024,Morning,STU-2024-001,2,Study
+5002,R-101,15-Mar-24,8AM-10AM,NULL,3.5,Group Project
+5003,Room101,3/16/2024,AM,STU-2024-002,1,Meeting
+5004,R102,16-Mar-24,Afternoon,STU-2024-003,2.5,Study
+5005,R-102,3/17/2024,2PM-4PM,NULL,2,Group Project
+5006,Room102,17-Mar-24,PM,STU-2024-004,3,Study
+5007,R103,3/18/2024,Morning,STU-2024-005,1.5,Meeting
+5008,R-103,18-Mar-24,10AM-12PM,STU-2024-001,2,Study
+5009,Room103,3/19/2024,Evening,NULL,4,Group Project
+5010,R101,19-Mar-24,6PM-9PM,STU-2024-006,3,Study
+5011,R-101,3/20/2024,Morning,STU-2024-007,2,Meeting
+5012,Room101,20-Mar-24,AM,NULL,1.5,Study
+5013,R102,3/20/2024,Morning,STU-2024-008,2,Study
+5014,R102,3/20/2024,Morning,STU-2024-008,2,Study
+5015,R-102,21-Mar-24,Afternoon,STU-2024-009,3.5,Group Project
+5016,Room102,3/22/2024,3PM-5PM,NULL,2,Meeting
